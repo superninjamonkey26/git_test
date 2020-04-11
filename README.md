@@ -1,0 +1,1 @@
+This is Monkey's first git project!
